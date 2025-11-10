@@ -1,6 +1,6 @@
-package com.sfshin5.theme2;
+package com.sfshin5.list2_3;
 
-public class Theme2_3 {
+public class DamageCalculator {
     
     int sumUpPlayerAttackPower(int playerArmPower, int playerWeaponPower) {
         return playerArmPower + playerWeaponPower;
