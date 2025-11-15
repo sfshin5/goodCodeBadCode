@@ -1,5 +1,10 @@
 package com.sfshin5.list5_11;
 
+
+/**
+ * staticメソッドの正しい使い方の例
+ * 関係しあうデータとロジックがばらばらになる心配がない場合には、staticメソッドを使うのが良い。
+ */
 class GiftPoint {
     private static final int MIN_POINT = 0;
     private static final int STANDARD_MEMBERSHIP_POINT = 3000;
